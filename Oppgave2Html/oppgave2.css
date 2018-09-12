@@ -1,0 +1,25 @@
+.main {
+    border-Collapse: separate;
+    border-spacing: 75px 10px;
+    border: 7px groove gray;
+
+}
+
+th {
+}
+.button2 {
+    background-color: gray;
+    border:none;
+    padding: 15px 32px;
+
+}
+.button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
